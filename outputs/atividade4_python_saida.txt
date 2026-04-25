@@ -1,0 +1,3 @@
+﻿Entrada: position = initial + rate * 60
+Tokens: [('ID', 'position'), ('OP', '='), ('ID', 'initial'), ('OP', '+'), ('ID', 'rate'), ('OP', '*'), ('NUM', '60')]
+Figura 1.7: ['<id,1>', '<assign>', '<id,2>', '<plus>', '<id,3>', '<mult>', '<num,60>']

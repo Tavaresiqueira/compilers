@@ -1,0 +1,10 @@
+position = initial + rate * 60
+contato@pucsp.br
+aluno.compilers+lab1@example.com
+01310-100
+01310100
+123.456.789-09
+12345678909
+12.345.678-X
++55 (11) 98765-4321
+(11) 3456-7890
